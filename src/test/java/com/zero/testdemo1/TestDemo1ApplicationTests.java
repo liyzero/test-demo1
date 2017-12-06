@@ -12,10 +12,14 @@ public class TestDemo1ApplicationTests {
 	@Test
 	public void contextLoads() {
 		//  buneng 
+<<<<<<< HEAD
 		//  shishis
 		// hello work....
 
 
+=======
+>>>>>>> parent of 292b386... 11
+test 666666
 	}
 
 }
